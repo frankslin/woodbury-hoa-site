@@ -5,7 +5,7 @@ languagecode = "en-US"
 paginate = 5
 pluralizelisttitles = false
 theme = "casper"
-title = "Woodbury & Stratford"
+title = "Woodbury & Stratford HOA"
 RSSLink=""
 
 [[menu.main]]
@@ -25,7 +25,7 @@ authorlocation = "Paris, France"
 authorwebsite = "http://vjeantet.fr"
 bio = "IT software and Security Engineer, Open source enthusiast."
 cover="/images/bg2.jpg"
-description = "Homeowners Association"
+description = "Woodinville, WA"
 githubName = ""
 googleAnalyticsUserID = ""
 hideHUGOSupport = true
