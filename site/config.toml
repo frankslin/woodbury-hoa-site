@@ -20,10 +20,10 @@ url = ""
 weight = 101
 
 [params]
-author = "Valère JEANTET"
-authorlocation = "Paris, France"
-authorwebsite = "http://vjeantet.fr"
-bio = "IT software and Security Engineer, Open source enthusiast."
+author = ""
+authorlocation = ""
+authorwebsite = ""
+bio = ""
 cover="/images/bg2.jpg"
 description = "Woodinville, WA"
 githubName = ""
@@ -31,6 +31,7 @@ googleAnalyticsUserID = ""
 hideHUGOSupport = true
 logo = ""
 facebookName="abc"
+RSSLink = ""
 email="email@gmail.com"
 
 
