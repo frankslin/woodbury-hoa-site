@@ -1,0 +1,43 @@
+baseurl = "http://vjeantet.fr/"
+copyright = "All rights reserved - 2017"
+disqusshortname = ""
+languagecode = "en-US"
+paginate = 5
+pluralizelisttitles = false
+theme = "casper"
+title = "Woodbury & Stratford"
+RSSLink=""
+
+[[menu.main]]
+name = "Documents"
+pre = ""
+url = ""
+weight = 100
+
+[[menu.main]]
+name = "Contact"
+url = ""
+weight = 101
+
+[params]
+author = "Valère JEANTET"
+authorlocation = "Paris, France"
+authorwebsite = "http://vjeantet.fr"
+bio = "IT software and Security Engineer, Open source enthusiast."
+cover="/images/bg2.jpg"
+description = "Homeowners Association"
+githubName = ""
+googleAnalyticsUserID = ""
+hideHUGOSupport = true
+logo = ""
+facebookName="abc"
+email="email@gmail.com"
+
+
+[permalinks]
+post = "/:slug/"
+
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
