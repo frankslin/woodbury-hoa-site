@@ -47,6 +47,13 @@
 &nbsp;
 {{end}}
 
+{{ if .Site.Params.contactUs }}
+    <a class="bloglogo" href="/contact">
+        <span class="icon-mail" style="color:white;font-size:2em"></span>
+    </a>
+&nbsp;
+{{end}}
+
 {{ if .Site.Params.pinterestName }}
     <a class="bloglogo" href="https://www.pinterest.com/{{ .Site.Params.pinterestName }}" target="_blank">
         <span class="icon-pinterest" style="color:white;font-size:2em"></span>

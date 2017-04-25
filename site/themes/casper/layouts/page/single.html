@@ -54,6 +54,7 @@
   <article class="post {{ .Section }}">
     <header class="post-header">
       <nav class="breadcrumb">
+        <li><a href="/">Home</a></li>
         {{ $currentNode := . }}
         {{ range .Site.Menus.main }}
         {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}
@@ -171,6 +172,6 @@
 
 </main>
 
-{{ partial "suggestions.html" . }}
+<!-- {{ partial "suggestions.html" . }} -->
 
 {{ partial "footer.html" . }}
