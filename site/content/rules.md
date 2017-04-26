@@ -8,7 +8,7 @@ title = "Rules and Regulations"
 type = "page"
 image="/images/bg2.jpg"
 [menu.main]
-weight = -120
+weight = 300
 +++
 
 In addition to the Woodbury CC&Rs (Covenants, Conditions & Restrictions) and other governing documents, the Woodbury HOA board has specified the below Rules and Regulations.   For a complete description of all policies, join our Woodbury HOA Facebook group or visit the OneDrive of Community Documents.
