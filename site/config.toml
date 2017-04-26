@@ -5,7 +5,7 @@ languagecode = "en-US"
 paginate = 5
 pluralizelisttitles = false
 theme = "casper"
-title = "Woodbury + Stratford HOA"
+title = "Woodbury HOA"
 
 #[[menu.main]]
 #name = "Documents"
