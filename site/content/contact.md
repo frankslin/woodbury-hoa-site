@@ -8,7 +8,7 @@ title = "Contact the board"
 type = "page"
 image="/images/bg2.jpg"
 [menu.main]
-weight = 500
+weight = 400
 
 +++
 

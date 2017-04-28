@@ -1,7 +1,6 @@
 {{ partial "header.html" . }}
 {{ $baseurl := .Site.BaseURL }}
 
-
 {{if .Params.image}}
   {{if or (eq (substr .Params.image 0 7) "http://") (eq (substr .Params.image 0 8) "https://")}}
   <header class="main-header post-head" style="background-image: url({{.Params.image}})">
@@ -13,7 +12,6 @@
 <header class="main-header post-head no-cover">
     <nav class="main-nav overlay clearfix">
 {{end}}
-
       {{ if .Site.Params.logo }}
         <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{ .Site.Params.logo | relURL }}" alt="Home" /></a>
       {{end}}
