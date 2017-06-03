@@ -6,7 +6,7 @@ noauthor = true
 share = false
 title = "HOA Annual Dues"
 type = "page"
-image="/images/bg2.jpg"
+image="/images/_DSC8159.jpg"
 [menu.main]
 weight = 200
 +++

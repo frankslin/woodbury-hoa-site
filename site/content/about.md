@@ -6,7 +6,7 @@ noauthor = true
 share = false
 title = "About Woodbury"
 type = "page"
-image="/images/bg2.jpg"
+image="/images/_DSC8159.jpg"
 [menu.main]
 weight = 500
 +++
