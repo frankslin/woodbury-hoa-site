@@ -15,6 +15,7 @@ The Woodbury Homeowner's Association includes all homes in the Woodbury resident
 * [About Woodbury]({{< relref "about.md" >}})
 * [Contact the board]({{< relref "contact.md" >}})
 * [Rules and Regulations]({{< relref "rules.md" >}})
+* [Architectural Control Committee]({{< relref "architectural-control-committee.md" >}})
 * [HOA Annual Dues]({{< relref "dues.md" >}})
 * [Useful links]({{< relref "links.md" >}})
 * [FAQ]({{< relref "faq.md" >}})

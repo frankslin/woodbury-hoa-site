@@ -30,4 +30,4 @@ In addition to the Woodbury CC&Rs (Covenants, Conditions & Restrictions) and oth
 * The NPGE around our neighborhood cannot be used for personal use in any way.  If your property is adjacent to the NPGE you may remove invasive plants (i.e. black berry bushes).  Adding personal property, structures or planting non-native plants is strictly prohibited by law. 
 
 ### Non-compliance fines
-The HOA board is charged with enforcement of the CC&Rs and policies, landscape maintenance, etc.  For homes that are out of compliance, they are issued a written warning by the HOA board.  On the second offense, the fine is $50.  On the third offense, the fine is $100.  
+The HOA board is charged with enforcement of the CC&Rs and policies, landscape maintenance, etc.  For homes that are out of compliance, they are issued a written warning by the HOA board.  On the second offense, the fine is $50.  On the third offense, the fine is $100.
