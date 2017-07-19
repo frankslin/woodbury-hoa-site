@@ -11,5 +11,9 @@ image="/images/_DSC8159.jpg"
 weight = 200
 +++
 
+### Forms
 * <a href="/docs/ACC Request Form 2017.docx" target="_blank">Architectural Control Committee Request Form</a>
+* <a href="/docs/Request to Paint Home Form.pdf" target="_blank">Request to Paint Home Form</a>
+
+### Documents
 * <a href="/docs/Recorded CC&amp;Rs.pdf" target="_blank">Declaration of Covenants, Conditions, and Restrictions</a>
