@@ -6,7 +6,7 @@ noauthor = true
 share = false
 title = "Documents and Forms"
 type = "page"
-image="/images/_DSC8159.jpg"
+image="/images/current.jpg"
 [menu.main]
 weight = 200
 +++

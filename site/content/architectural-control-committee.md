@@ -6,7 +6,7 @@ noauthor = true
 share = false
 title = "Architectural Control Committee"
 type = "page"
-image="/images/_DSC8159.jpg"
+image="/images/current.jpg"
 [menu.main]
 weight = 250
 +++

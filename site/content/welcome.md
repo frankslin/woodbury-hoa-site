@@ -6,7 +6,7 @@ noauthor = true
 share = false
 title = "Welcome to the neighborhood!"
 type = "welcome"
-image="/images/_DSC8159.jpg"
+image="/images/current.jpg"
 [menu.other]
 weight = 100
 +++
