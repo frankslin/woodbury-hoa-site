@@ -27,31 +27,50 @@ The ACC has up to 30 days to render a decision. The Request to Paint Home form c
 ### Painter Recommandations
 
     Cabrera's Painting - Manuel Cabrera
-    425-361-3300 cabreraspainting@gmail.com
+    425-361-3300
+    cabreraspainting@gmail.com
+
 
     Grater Easlside Painting - Tim Malloy
-    425-780-9419 greatereastsidepainting@gmail.com
+    425-780-9419
+    greatereastsidepainting@gmail.com
+
 
     Jacks Evergrwn Painting - Andrey
-    206-518-7540 andrey@asksevergreenpainting.com
+    206-518-7540
+    andrey@asksevergreenpainting.com
+
 
     Summit Painting LLC - Stuart
-    425-891-4704 stuart@summitpaintingnw.com
+    425-891-4704
+    stuart@summitpaintingnw.com
+
 
     JC Paint Pro - Jose
-    206-769-5906 jcpaintingpro@gmail.com
+    206-769-5906
+    jcpaintingpro@gmail.com
+
 
     Certa Pro - Jessica Bellman
-    425-984-4299 jbelman@certapro.com
+    425-984-4299
+    jbelman@certapro.com
+
 
     Leyva Quality Painting - Leo Leyva
-    425-279-3063 leyvaqualitypainting@gmail.com
+    425-279-3063
+    leyvaqualitypainting@gmail.com
+
 
     Warden Painting - Dave Warden
-    425-444-4035 wardenpaitning@isomedia.com
+    425-444-4035
+    wardenpaitning@isomedia.com
+
 
     MacGregor Painting - Cameron MacGregor
-    360-536-8158 macgregorcameron494@gmail.com
+    360-536-8158
+    macgregorcameron494@gmail.com
+
 
     Mendoza Painting - Fortino Mendoza
-    206-300-3991 mdzapainting@gmail.com
+    206-300-3991
+    mdzapainting@gmail.com
