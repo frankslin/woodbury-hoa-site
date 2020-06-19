@@ -22,7 +22,7 @@ weight = 200
 * [Woodinville Water District](https://www.woodinvillewater.com/)
 
 ### Cable
-* [Frontier](https://frontier.com)
+* [Ziply Fiber](https://ziplyfiber.com)
 * [Comcast](https://www.xfinity.com)
 
 ### Transit
