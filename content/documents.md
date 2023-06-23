@@ -12,8 +12,8 @@ weight = 200
 +++
 
 ### Forms
-* <a href="/docs/ACC Request Form 2017.docx" target="_blank">Architectural Control Committee Request Form</a>
-* <a href="/docs/Request to Paint Home Form.pdf" target="_blank">Request to Paint Home Form</a>
+* [Architectural Control Committee Request Form](/docs/ACC_Request_Form_2017.docx)
+* [Request to Paint Home Form](/docs/Request_to_Paint_Home_Form.pdf)
 
-### Documents
-* <a href="/docs/Recorded CC&amp;Rs.pdf" target="_blank">Declaration of Covenants, Conditions, and Restrictions</a>
+### HOA Documents
+* [Declaration of Covenants, Conditions, and Restrictions](/docs/Recorded_CCRs.pdf)
