@@ -1,18 +1,18 @@
-baseurl = "https://www.woodbury-hoa.com/"
-copyright = "All rights reserved - 2017"
+baseurl = "/"
+copyright = "All rights reserved. 2017-2023"
 disqusshortname = ""
 languagecode = "en-US"
-paginate = 5
+#paginate = 5
 pluralizelisttitles = false
 theme = "casper"
 title = "Woodbury HOA"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 #[[menu.main]]
 #name = "Documents"
 #pre = ""
 #url = ""
 #weight = 100
-
 
 [params]
 author = ""
@@ -22,13 +22,12 @@ bio = ""
 cover="/images/current.jpg"
 description = "Woodinville, WA"
 githubName = ""
-googleAnalyticsUserID = "UA-109031742-1"
+googleAnalyticsUserID = ""
 hideHUGOSupport = true
 logo = ""
 facebookName="groups/101482933516141/"
 RSSLinkEnabled = false
 contactUs="True"
-
 
 [permalinks]
 post = "/:slug/"
