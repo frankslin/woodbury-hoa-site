@@ -10,6 +10,8 @@ This is the static website for Woodbury HOA.
 4. Test changes in the browser
 5. Deploy on Netlify
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d61bc952-d391-41fd-998d-75c4dbc9136f/deploy-status)](https://app.netlify.com/sites/woodbury-hoa/deploys)
+
 ## Other useful pointers
 
 * Theme: Casper, with local modifications: https://github.com/frankslin/hugo-theme-casper
