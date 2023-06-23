@@ -27,10 +27,6 @@ The ACC has up to 30 days to render a decision. The Request to Paint Home form c
 ### Color Guidelines
 
 * [Sherwin-Williams Color Guidelines Website](https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/woodinville/wa/woodbury-and-stratford-hoa/)
-* [Test](/docs/Request to Paint Home Form.pdf)
-
-* <a href="/docs/Request to Paint Home Form.pdf" target="_blank">dsfsdf</a>
-
 
 
 ### Painter Recommandations
