@@ -1,6 +1,7 @@
 +++
 comments = false
 date = "2015-04-14T22:17:00+00:00"
+lastmod = "2023-06-26"
 draft = false
 noauthor = true
 share = false
@@ -36,4 +37,7 @@ weight = 200
 ### Government
 * [City of Woodinville](https://www.ci.woodinville.wa.us/)
 * [King County](https://kingcounty.gov/)
+  * [King County Parcel Viewer](https://kingcounty.gov/services/gis/Maps/parcel-viewer.aspx)
+  * [Property Tax Payment Information](https://kingcounty.gov/depts/finance-business-operations/treasury/property-tax.aspx)
+  * [Recorder's Office](https://kingcounty.gov/depts/records-licensing/recorders-office.aspx)
 * [WA Department of Licensing](https://www.dol.wa.gov/)

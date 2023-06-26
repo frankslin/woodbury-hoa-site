@@ -1,6 +1,7 @@
 +++
 comments = false
 date = "2015-04-14T22:17:00+00:00"
+lastmod = "2023-06-26"
 draft = false
 noauthor = true
 share = false
@@ -11,7 +12,7 @@ image="/images/current.jpg"
 weight = 300
 +++
 
-In addition to the Woodbury CC&Rs (Covenants, Conditions & Restrictions) and other governing documents, the Woodbury HOA board has specified the below Rules and Regulations.   For a complete description of all policies, join our [Woodbury HOA Facebook group](https://facebook.com/groups/101482933516141).
+In addition to the Woodbury HOA's Covenants, Conditions & Restrictions (CC&Rs) and other [governing documents]({{< relref "documents.md" >}}), the Woodbury HOA board has specified the below Rules and Regulations.   For a complete description of all policies, join our [Woodbury HOA Facebook group](https://facebook.com/groups/101482933516141).
 
 * Trash cans cannot be left on the curb more than 48 hours before or after trash pick-up. 
 * Dogs must be on a leash at all times. Please make sure that you pick up all dog poop. 
