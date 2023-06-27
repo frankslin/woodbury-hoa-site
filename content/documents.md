@@ -1,7 +1,7 @@
 +++
 comments = false
 date = "2015-04-14T22:17:00+00:00"
-lastmod = "2023-06-26"
+lastmod = "2023-06-27"
 draft = false
 noauthor = true
 share = false
@@ -20,8 +20,10 @@ weight = 200
 
 Note: the documents listed here are **for information only**. These copies are not intended for real estate transactions. To acquire the official/certified copies of these documents, please contact the [King County recorder](https://kingcounty.gov/depts/records-licensing/recorders-office.aspx) or the title company of your choice.
 
-* [Declaration of Covenants, Conditions, and Restrictions](/docs/Recorded_CCRs.pdf)
-* [Bylaws](/docs/Recorded_Bylaws.pdf)
 * [Articles of Incorporation](/docs/Recorded_ArticlesOfIncorporation.pdf)
+* [Bylaws](/docs/Recorded_Bylaws.pdf)
+* [Declaration of Covenants, Conditions, and Restrictions](/docs/Recorded_CCRs.pdf)
 * [Exhibits](/docs/Recorded_Exhibits.pdf)
 
+### Other Documents of Interest
+* [Georgian Heights Phase 4 Preliminary Plat Approval](/docs/PPA04104.pdf)

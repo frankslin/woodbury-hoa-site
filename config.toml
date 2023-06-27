@@ -36,3 +36,6 @@ post = "/:slug/"
 ChangeFreq = ""
 Filename = "sitemap.xml"
 Priority = "-1"
+
+[markup.goldmark.renderer]
+unsafe = true
