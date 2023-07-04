@@ -1,4 +1,5 @@
-baseurl = "/"
+# Site settings
+baseURL = "https://woodbury-hoa.com/"
 copyright = "All rights reserved. 2017-2023"
 disqusshortname = ""
 languagecode = "en-US"
