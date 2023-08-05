@@ -30,64 +30,19 @@ The ACC has up to 30 days to render a decision. The Request to Paint Home form c
 * [Sherwin-Williams Color Guidelines Website](https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/hoa/woodinville/wa/woodbury-and-stratford-hoa/)
 
 
-### Painter Recommandations
+### Local Painters
 
-```
-    Cabrera's Painting - Manuel Cabrera
-    425-361-3300
-    cabreraspainting@gmail.com
-```
+Note: The information about providers and services contained on this website does not constitute endorsement or recommendation by the HOA.
 
-```
-    Grater Easlside Painting - Tim Malloy
-    425-780-9419
-    greatereastsidepainting@gmail.com
-```
 
-```
-    Jacks Evergrwn Painting - Andrey
-    206-518-7540
-    andrey@asksevergreenpainting.com
-```
-
-```
-    Summit Painting LLC - Stuart
-    425-891-4704
-    stuart@summitpaintingnw.com
-```
-
-```
-    JC Paint Pro - Jose
-    206-769-5906
-    jcpaintingpro@gmail.com
-```
-
-```
-    Certa Pro - Jessica Bellman
-    425-984-4299
-    jbelman@certapro.com
-```
-
-```
-    Leyva Quality Painting - Leo Leyva
-    425-279-3063
-    leyvaqualitypainting@gmail.com
-```
-
-```
-    Warden Painting - Dave Warden
-    425-444-4035
-    wardenpaitning@isomedia.com
-```
-
-```
-    MacGregor Painting - Cameron MacGregor
-    360-536-8158
-    macgregorcameron494@gmail.com
-```
-
-```
-    Mendoza Painting - Fortino Mendoza
-    206-300-3991
-    mdzapainting@gmail.com
-```
+| Company Name             | Website | Contact Person | Contact Info         |
+|--------------------------|---------|----------------|----------------------|
+| Cabrera's Painting       | [Facebook](https://www.facebook.com/people/Cabreras-painting-llc/100063458441736/) | Manuel Cabrera | 425-361-3300, [Email](mailto:cabreraspainting@gmail.com) |
+| Greater Eastside Painting| [Company](https://www.greatereastsidepainting.com/) | Tim Malloy     | 425-780-9419, [Email](greatereastsidepainting@gmail.com) |
+| Jacks Evergreen Painting | [Company](https://www.jacksevergreenpainting.com/) | Andrey         | 206-518-7540, [Email](andrey@asksevergreenpainting.com) |
+| Summit Painting LLC      | [Company](https://www.summitpaintingnw.com/) | Stuart         | 425-891-4704, [Email](stuart@summitpaintingnw.com) |
+| JC Painting Pro          | [Yelp](https://www.yelp.com/biz/jc-painting-pro-llc-greater-seattle-painting-contractor-sammamish) | Jose           | 206-769-5906, [Email](jcpaintingpro@gmail.com)     |
+| CertaPro Painters Eastside | [Company](https://certapro.com/eastside/) | Jessica Bellman | 425-984-4299, [Email](jbelman@certapro.com)        |
+| Leyva Quality Painting   | [Company](https://leyvaspaintingllc.com/) | Leo Leyva      | 425-279-3063, [Email](leyvaqualitypainting@gmail.com) |
+| Warden Painting          | [Angi](https://www.angi.com/companylist/us/wa/redmond/warden-painting-co-llc-reviews-240082.htm) | Dave Warden    | 425-444-4035, [Email](wardenpaitning@isomedia.com) |
+| Mendoza Painting         | [Company](https://mendozapaintingllc.com/) | Fortino Mendoza| 206-300-3991, [Email](mdzapainting@gmail.com) |
