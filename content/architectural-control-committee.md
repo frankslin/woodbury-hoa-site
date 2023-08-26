@@ -37,7 +37,6 @@ Note: The information about providers and services contained on this website doe
 
 | Company Name             | Website | Contact Person | Contact Info         |
 |--------------------------|---------|----------------|----------------------|
-| Cabrera's Painting       | [Facebook](https://www.facebook.com/people/Cabreras-painting-llc/100063458441736/) | Manuel Cabrera | 425-361-3300, [Email](mailto:cabreraspainting@gmail.com) |
 | Greater Eastside Painting| [Company](https://www.greatereastsidepainting.com/) | Tim Malloy     | 425-780-9419, [Email](greatereastsidepainting@gmail.com) |
 | Jacks Evergreen Painting | [Company](https://www.jacksevergreenpainting.com/) | Andrey         | 206-518-7540, [Email](andrey@asksevergreenpainting.com) |
 | Summit Painting LLC      | [Company](https://www.summitpaintingnw.com/) | Stuart         | 425-891-4704, [Email](stuart@summitpaintingnw.com) |
