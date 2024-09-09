@@ -1,7 +1,7 @@
 +++
 comments = false
 date = "2015-04-14T22:17:00+00:00"
-lastmod = "2023-06-27"
+lastmod = "2024-09-08"
 draft = false
 noauthor = true
 share = false
@@ -15,6 +15,7 @@ weight = 200
 ### Forms
 * [Architectural Control Committee Request Form](/docs/ACC_Request_Form_2017.pdf)
 * [Request to Paint Home Form](/docs/Request_to_Paint_Home_Form.pdf)
+* For Annual Party - [Participant Release Aand Waiver of Liability Form](/docs/Participant_Release_Form.pdf)
 
 ### HOA Governing Documents
 
@@ -26,4 +27,5 @@ Note: the documents listed here are **for information only**. These copies are n
 * [Exhibits](/docs/Recorded_Exhibits.pdf)
 
 ### Other Documents of Interest
+
 * [Georgian Heights Phase 4 Preliminary Plat Approval](/docs/PPA04104.pdf)

@@ -1,11 +1,11 @@
 +++
 comments = false
 date = "2015-04-14T22:17:00+00:00"
-lastmod = "2023-06-26"
+lastmod = "2024-09-08"
 draft = false
 noauthor = true
 share = false
-title = "Useful links"
+title = "Useful Links"
 type = "page"
 image="/images/current.jpg"
 [menu.main]
@@ -14,10 +14,12 @@ weight = 200
 
 ### Facebook Group
 * [Woodbury HOA Group on Facebook](https://facebook.com/groups/101482933516141)
+  * We’ve recently noticed an increase in membership requests from individuals outside our community. To ensure this group remains exclusive to owners and residents, please send an email to the HOA for verification if you'd like to join. Thank you for helping us maintain the safety of our community!
 
-### Local Newspapers
+### Local Newspapers And Independent Media
 * [Woodinville Patch](https://patch.com/washington/woodinville)
 * [The Woodinville Weekly](https://www.nwnews.com/)
+* [One Woodinville](https://onewoodinville.org/)
 
 ### Utilities
 * [Pudget Sound Energy](https://pse.com/)
@@ -29,6 +31,11 @@ weight = 200
 ### Cable & Internet Service Providers
 * [Ziply Fiber](https://ziplyfiber.com)
 * [Xfinity / Comcast](https://www.xfinity.com)
+
+### Mobile phone coverage map
+* [AT&T Coverage Map](https://www.att.com/maps/wireless-coverage.html)
+* [T-Mobile Coverage Map](https://www.t-mobile.com/coverage/coverage-map)
+* [Verizon Coverage Map](https://www.verizon.com/coverage-map/)
 
 ### Transit
 * [Sound Transit](https://www.soundtransit.org/)

@@ -1,13 +1,13 @@
 # Site settings
 baseURL = "https://woodbury-hoa.com/"
-copyright = "All rights reserved. 2017-2023"
+copyright = "All rights reserved. 2017-2024"
 disqusshortname = ""
 languagecode = "en-US"
 #paginate = 5
 pluralizelisttitles = false
 theme = "casper"
 title = "Woodbury HOA"
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy"]
 disableHugoGeneratorInject = true
 
 #[[menu.main]]

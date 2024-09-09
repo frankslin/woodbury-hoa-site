@@ -14,9 +14,10 @@ weight = 100
 The Woodbury Homeowner's Association includes 47 homes in the **Georgian Heights Phase 4** development surrounding the Native Growth Protection Easement (NPGE), "the woods".
 
 * [About Woodbury HOA]({{< relref "about.md" >}})
-* [Contact the board]({{< relref "contact.md" >}})
+* [Amenities]({{< relref "amenities.md" >}})
+* [Contact the HOA]({{< relref "contact.md" >}})
 * [Rules and Regulations]({{< relref "rules.md" >}})
 * [Architectural Control Committee]({{< relref "architectural-control-committee.md" >}})
 * [HOA Annual Dues]({{< relref "dues.md" >}})
 * [Documents and Forms]({{< relref "documents.md" >}})
-* [Useful links]({{< relref "links.md" >}})
+* [Useful Links]({{< relref "links.md" >}})

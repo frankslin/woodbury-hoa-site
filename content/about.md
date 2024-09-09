@@ -11,6 +11,7 @@ image="/images/current.jpg"
 [menu.main]
 weight = 500
 +++
+
 Welcome to the neighborhood!
 
 The Woodbury Homeowner's Association includes 47 homes in the **Georgian Heights Phase 4** development surrounding the Native Growth Protection Easement (NPGE), "the woods". Specifically, it includes:
