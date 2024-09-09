@@ -7,7 +7,7 @@ languagecode = "en-US"
 pluralizelisttitles = false
 theme = "casper"
 title = "Woodbury HOA"
-disableKinds = ["RSS", "taxonomy"]
+disableKinds = ["RSS", "taxonomy", "term"]
 disableHugoGeneratorInject = true
 
 #[[menu.main]]
