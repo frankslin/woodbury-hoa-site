@@ -15,7 +15,7 @@ weight = 200
 ### Forms
 * [Architectural Control Committee Request Form](/docs/ACC_Request_Form_2017.pdf)
 * [Request to Paint Home Form](/docs/Request_to_Paint_Home_Form.pdf)
-* For Annual Party - [Participant Release Aand Waiver of Liability Form](/docs/Participant_Release_Form.pdf)
+* For Annual Party - [Participant Release and Waiver of Liability Form](/docs/Participant_Release_Form.pdf)
 
 ### HOA Governing Documents
 
