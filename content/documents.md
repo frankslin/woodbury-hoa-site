@@ -19,13 +19,16 @@ weight = 200
 
 ### HOA Governing Documents
 
-Note: the documents listed here are **for information only**. These copies are not intended for real estate transactions. To acquire the official/certified copies of these documents, please contact the [King County recorder](https://kingcounty.gov/depts/records-licensing/recorders-office.aspx) or the title company of your choice.
+Note: the documents listed here are **for information only**. These copies are not for real estate transactions. To acquire the official/certified copies of these documents, please contact the [King County recorder](https://kingcounty.gov/depts/records-licensing/recorders-office.aspx) or the title company of your choice.
+
+From King County Recorded Document #20060207001319:
 
 * [Articles of Incorporation](/docs/Recorded_ArticlesOfIncorporation.pdf)
 * [Bylaws](/docs/Recorded_Bylaws.pdf)
 * [Declaration of Covenants, Conditions, and Restrictions](/docs/Recorded_CCRs.pdf)
-* [Exhibits](/docs/Recorded_Exhibits.pdf)
+* CC&Rs [Exhibits](/docs/Recorded_Exhibits.pdf)
 
 ### Other Documents of Interest
 
-* [Georgian Heights Phase 4 Preliminary Plat Approval](/docs/PPA04104.pdf)
+* [Georgian Heights Phase 4 Final Plat Map](/docs/Doc_20060207001318.pdf) (King County Recorded Document #20060207001318; City of Woodinville File No. FPA2005-071)
+* [Georgian Heights Phase 4 Preliminary Plat Approval](/docs/PPA04104.pdf) (King County Recorded Document #20060207001320)
