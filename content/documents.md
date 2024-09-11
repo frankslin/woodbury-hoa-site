@@ -32,3 +32,40 @@ From King County Recorded Document #20060207001319:
 
 * [Georgian Heights Phase 4 Final Plat Map](/docs/Doc_20060207001318.pdf) (King County Recorded Document #20060207001318; City of Woodinville File No. FPA2005-071)
 * [Georgian Heights Phase 4 Preliminary Plat Approval](/docs/PPA04104.pdf) (King County Recorded Document #20060207001320)
+
+    Exhibits
+    1. [Staff Report](/docs/PPA04104_Exhibits/Exhibit_01.pdf);
+    2. [Preliminary Plat Application](/docs/PPA04104_Exhibits/Exhibit_02.pdf);
+    3. [Letter of Completed Application](/docs/PPA04104_Exhibits/Exhibit_03.pdf);
+    4. [Published Notice of Application with Comment Period](/docs/PPA04104_Exhibits/Exhibit_04.pdf);
+    5. [Affidavit of Site Posting for Notice of Application Exhibit](/docs/PPA04104_Exhibits/Exhibit_05.pdf);
+    6. [Consistency Check List](/docs/PPA04104_Exhibits/Exhibit_06.pdf);
+    7. [Northshore School District School Walk Safety Assessment](/docs/PPA04104_Exhibits/Exhibit_07.pdf);
+    8. [Density Calculations](/docs/PPA04104_Exhibits/Exhibit_08.pdf);
+    9. [Vicinity Map](/docs/PPA04104_Exhibits/Exhibit_09.pdf);
+    10. [Title Report](/docs/PPA04104_Exhibits/Exhibit_10.pdf);
+    11. [Preliminary Subdivision Plat Map](/docs/PPA04104_Exhibits/Exhibit_11.pdf);
+    12. [Combined Utility Plan](/docs/PPA04104_Exhibits/Exhibit_12.pdf);
+    13. [Preliminary Road Profiles and Sections](/docs/PPA04104_Exhibits/Exhibit_13.pdf);
+    14. [Landscape and Preliminary Tree Preservation Plan](/docs/PPA04104_Exhibits/Exhibit_14.pdf);
+    15. Environmental Checklist;
+    16. SEPA Determination (SEP2004-046);
+    17. 1988 Wetlands High School Annex Wetlands Assessment Report, prepared by Raedeke Associates Inc.;
+    18. Stormwater and Technical Information Report;
+    19. Sanitary Sewer and Municipal Water Certification
+    20. Traffic Impact Analysis;
+    21. WSDOT Letters on SR-522 traffic impact (Awaiting Letter);
+    22. Notice of Public Hearing;
+    23. Affidavit of Posting;
+    24. Deviation from Standards Request/Response;
+    25. Georgian Heights Phase 4 Wetland and Stream Mitigation Plan;
+    26. Transportation Impact Fee Calculation Worksheet;
+    27. Planning Director’s Decision pertaining to street right-of-way standards, dated November 3, 2004;
+    28. Review of 1988 Wetlands High School Annex Wetland Assessment Report, prepared by Adolfson Associates, Inc., dated April 29, 2004;
+    29. Georgian Heights Phase 4 Habitat Conservation Area Report, prepared by Adolfson Associates, Inc., March 2005;
+    30. Georgian Heights Phase 4 Wetland and Stream Mitigation Plan, prepared by Adolfson Associates Inc., March 2005;
+    31. Georgian Heights Phase 3 and 4 Subsurface Exploration, Geologic Hazard, and Preliminary Geotechnical Engineering Report, prepared by Associated Earth Sciences, Inc., April 2004;
+    32. Addendum to Geotechnical Report (Exhibit 31), prepared by Associated Earth Sciences, June 4, 2004;
+    33. E-mail from Fire Marshall regarding public roads, dated April 5, 2005;
+    34. City of Woodinville’s Approval of Deviations;
+    35. Hydraulic Project Approval, dated February 24, 2005.
