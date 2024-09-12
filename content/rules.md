@@ -28,7 +28,7 @@ In addition to the Woodbury HOA's Covenants, Conditions & Restrictions (CC&Rs) a
 * Sports team décor and other outside decorations are permitted for the duration of the sporting season (up to 6 months).  All sports décor must be removed within 15 days of the end of the formal season.
 * Homeowners are responsible for watering and hand-weeding the curbside grass strip if you have one in front of your home.  The landscaping crew will take care of the rest, including fertilizing, thatching, and overseeding.
 * We have a lot of pets and children on our streets, so please drive cautiously and slowly. There is a 10 MPH speed limit on the private drive located at 134<sup>th</sup> Ct NE and NE 199<sup>th</sup> Pl. We ask that a similar speed limit be observed on the other streets within our HOA as well.
-* The NPGE around our neighborhood cannot be used for personal use in any way.  If your property is adjacent to the NPGE you may remove invasive plants (i.e. blackberry bushes).  Adding personal property, structures or planting non-native plants is strictly prohibited by law. 
+* The NGPE around our neighborhood cannot be used for personal use in any way.  If your property is adjacent to the NGPE you may remove invasive plants (i.e. blackberry bushes).  Adding personal property, structures or planting non-native plants is strictly prohibited by law. 
 
 ### Non-compliance fines
 The HOA board is charged with enforcement of the CC&Rs and policies, landscape maintenance, etc.  For homes that are out of compliance, they are issued a written warning by the HOA board.  On the second offense, the fine is $50.  On the third offense, the fine is $100.

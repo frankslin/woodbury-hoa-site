@@ -14,7 +14,7 @@ weight = 500
 
 Welcome to the neighborhood!
 
-The Woodbury Homeowner's Association includes 47 homes in the **Georgian Heights Phase 4** development surrounding the Native Growth Protection Easement (NPGE), "the woods". Specifically, it includes:
+The Woodbury Homeowner's Association includes 47 homes in the **Georgian Heights Phase 4** development surrounding the Native Growth Protection Easement (NGPE), "the woods". Specifically, it includes:
 
 * 33 homes on **134<sup>th</sup> Avenue NE**
 * 4 homes on **134<sup>th</sup> Court NE**
